@@ -207,12 +207,6 @@ MNIST-Project/
 ├── comparison/
 │   └── model_comparison.ipynb
 │
-├── data/
-│   ├── X_train.pkl
-│   ├── X_test.pkl
-│   ├── y_train.pkl
-│   └── y_test.pkl
-│
 ├── README.md
 
 ```
